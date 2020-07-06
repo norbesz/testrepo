@@ -1,2 +1,2 @@
 # testrepo
-Repo for testing bithub.
+Repo for testing github.
